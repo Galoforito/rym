@@ -1,0 +1,1 @@
+export type { RYM } from './rym'
